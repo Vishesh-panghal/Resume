@@ -1,0 +1,75 @@
+{
+	"basics": {
+		"name": "Vishesh",
+		"label": "Student",
+		"picture": "https://avatars.githubusercontent.com/u/76419786?s=400&u=08e9a9a19be271dcba921af565fc646e7fe0546b&v=4",
+		"phone": "+91 9306078820",
+		"summary": "I'm a student of Indian Institute of Information technology,Kota (India), persuing my B.tech in Computer Science & engineering.",
+		"location": {
+			"address": "Bhagana",
+			"postalCode": "125044",
+			"city": "Hisar",
+			"countryCode": " India",
+			"region": "Haryana"
+		},
+		"profiles": [{
+				"network": "Github",
+				"username": "Vishesh-panghal",
+				"url": "https://github.com/Vishesh-panghal"
+			},
+			{
+				"network": "twitter",
+				"username": "Vishesh panghal",
+				"url": "https://twitter.com/vishesh_panghal/"
+			},
+			{
+				"network": "linkedin",
+				"username": "VISHESH Panghal",
+				"url": "https://www.linkedin.com/in/vishesh-panghal-b7097720b/"
+			},
+			{
+				"network": "Instagram",
+				"username": "_.milonelion._",
+				"url": "https://www.instagram.com/champion._.jaat/"
+			}
+		]
+	},
+	"education": [{
+		"institution": "Indian Institute of Information Technology,Kota",
+		"area": "Engineering",
+		"studyType": "Bachelor of Technology",
+		"courses": [
+			"Computer Science & Engineering"
+		]
+	}],
+	"skills": [{
+		"level": "Beginner",
+		"keywords": [
+			"HTML",
+			"CSS",
+			"C/C++",
+			"Bootstrap",
+			"javascript"
+		]
+	}],
+	"languages": [{
+		"language": ["English", "Hindi"],
+		"fluency": "Fluent speaker"
+	}],
+	"interests": [{
+			"name": "Hobby",
+			"keywords": [
+				"Readings Books", "listning old age people advices"
+			]
+		},
+		{
+			"name": "Playing",
+			"keywords": [
+				"Carrom",
+				"kabbadi",
+				"Cricket"
+			]
+		}
+	],
+	"references": []
+}
