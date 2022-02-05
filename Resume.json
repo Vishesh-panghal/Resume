@@ -43,13 +43,19 @@
 		]
 	}],
 	"skills": [{
-		"level": "Beginner",
+		"level": "intermediate",
 		"keywords": [
 			"HTML",
 			"CSS",
 			"C/C++",
+			"Python",
+			"javascript",
+			"SQL",
+			"Wordpress",
 			"Bootstrap",
-			"javascript"
+			"Operating System"
+			
+			
 		]
 	}],
 	"languages": [{
