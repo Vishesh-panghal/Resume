@@ -45,21 +45,21 @@
 	"skills": [{
 		"level": "intermediate",
 		"keywords": [
-			"HTML",
-			"CSS",
-			"C/C++",
-			"Python",
-			"javascript",
-			"SQL",
-			"Wordpress",
+			"Web Devlopment",
 			"Bootstrap",
-			"Operating System"
+			"C/C++",
+			"Kotlin",
+			"SQL",
+			"DBMS",
+			"Networking",
+			"Operating System",
+			"Android Devlopment"
 			
 			
 		]
 	}],
 	"languages": [{
-		"language": ["English", "Hindi"],
+		"language": ["English", "Hindi","Haryanvi"],
 		"fluency": "Fluent speaker"
 	}],
 	"interests": [{
