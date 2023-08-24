@@ -45,10 +45,9 @@
 	"skills": [{
 		"level": "intermediate",
 		"keywords": [
-			"Web Devlopment",
-			"Bootstrap",
 			"C/C++",
-			"Kotlin",
+			"Dart",
+			"Flutter",
 			"SQL",
 			"DBMS",
 			"Networking",
